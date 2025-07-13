@@ -1,8 +1,69 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: "오고모로 김치찌개"
+description: "파이널판타지14 고난도 임무 정리본"
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://oghomorian.github.io
+
+# General Settings
+color_scheme: light
+
+enable_copy_code_button: true
+
+callouts_level: quite
+callouts:
+  highlight:
+    color: yellow
+  important:
+    color: blue
+  new:
+    title: 신규사항
+    color: green
+  note:
+    title: 참고사항
+    color: purple
+  warning:
+    title: 주의사항
+    color: red
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "Github Repository":
+    - "https://github.com/oghomorian/oghomorian.github.io"
+
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 2
+  tokenizer_separator: /[\s/]+/
+
+# Footer Content
+
+back_to_top: true
+back_to_top_text: "맨 위로 가기"
+
+footer_content: 'Final Fantasy XIV KR server Raid Guides'
+
+# Page Settings
+
+defaults:
+  - scope:
+      path: "/docs"
+      type: "pages"
+    values:
+      layout: "default"
+
+collections:
+  ultimates:
+    permalink: "/:collection/:path/"
+    output: true
+  raids:
+    permalink: "/:collection/:path/"
+    output: true
+
+# Sidebar Content
+
+just_the_docs:
+  collections:
+    ultimates:
+      name: 절 난이도 레이드
+    raids:
+      name: 저장소
