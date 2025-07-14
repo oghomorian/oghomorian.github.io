@@ -1,5 +1,22 @@
 <script src="{{ '/assets/js/memo.js' | relative_url }}"></script>
 <style>
+.timestamp {
+  width: 32px;
+  max-width: 64px;
+}
+
+.fontw-b {
+  font-weight: bold;
+}
+
+.fonts-s {
+  font-size: 80% !important;
+}
+
+.align-c {
+  text-align: center;
+}
+
 .memo-container {
   position: relative;
   max-width: 100%;
@@ -9,5 +26,10 @@
   resize: none !important;
   background-color: transparent;
   border: none;
+}
+
+textarea::placeholder {
+  color: #aaa;         /* 연한 회색 */
+  font-style: italic;  /* 이탤릭체 */
 }
 </style>
