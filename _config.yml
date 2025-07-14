@@ -7,6 +7,10 @@ url: https://oghomorian.github.io
 # General Settings
 color_scheme: light
 
+sass:
+  quiet_deps: true
+  silence_deprecations: ['import']
+
 enable_copy_code_button: true
 
 callouts_level: quite
