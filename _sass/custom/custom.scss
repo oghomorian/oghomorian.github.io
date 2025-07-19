@@ -10,7 +10,13 @@ img {
   width: 32px;
 }
 
-td img {
+.refs {
+  text-align:center;
+  font-weight:bold;
+  width: 96px;
+}
+
+td img:not(.icons):not(.refs) {
   min-width: 180px;
   width: 100%;
 }
