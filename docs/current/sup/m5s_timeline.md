@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 크루저웨이트급 1 타임라인
+title: 타임라인
 parent: 크루저웨이트급 1
 permalink: /7.0_dawntrail/savage_raids/m5s/timeline/
 ---
