@@ -11,6 +11,9 @@ sass:
   quiet_deps: true
   silence_deprecations: ['import']
 
+plugins:
+  - jekyll-sitemap
+
 enable_copy_code_button: true
 
 callouts_level: quite
