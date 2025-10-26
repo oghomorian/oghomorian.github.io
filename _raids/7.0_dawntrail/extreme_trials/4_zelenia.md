@@ -1,8 +1,9 @@
 ---
 layout: default
 title: 극 젤레니아 토벌전
-parent: 7.2 영원의 탐구자
-nav_order: 3
+grand_parent: 7.0 황금의 유산
+parent: 극 난이도 토벌전
+nav_order: 4
 permalink: /7.0_dawntrail/extreme_trials/zelenia/
 ---
 

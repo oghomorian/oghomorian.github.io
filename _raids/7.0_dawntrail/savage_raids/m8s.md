@@ -1,7 +1,8 @@
 ---
 layout: default
 title: 크루저웨이트급 4
-parent: 7.2 영원의 탐구자
+grand_parent: 7.0 황금의 유산
+parent: 영웅 난이도 레이드
 nav_order: 8
 has_children: true
 has_toc: true

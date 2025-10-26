@@ -1,6 +1,7 @@
 ---
-title: 7.3 The Promise of Tomorrow
+title: 7.4 -
 layout: default
 nav_exclude: true
+has_toc: false
 permalink: /upcoming/
 ---
