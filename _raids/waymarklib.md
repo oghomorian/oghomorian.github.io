@@ -6,7 +6,7 @@ permalink: /waymarks/
 
 ## WaymarkLibrarian
 
-사이트 바로가기: https://github.com/PunishedPineapple/WaymarkLibrarian
+[사이트 바로가기](https://github.com/PunishedPineapple/WaymarkLibrarian)
 
 ### 목적
 위치표식 관련 프리셋을 저장/불러오기 할 수 있는 프로그램입니다. 해당 프로그램은 사용자 설정 파일(...\Documents\My Games\FINAL FANTASY XIV - KOREA) 내 위치표식 관련 데이터를 읽어들여 위치표식 관련 정보를 저장하거나 불러올 수 있게 합니다. 해당 프로그램 사용 전 게임은 실행 중이지 않아야 합니다.

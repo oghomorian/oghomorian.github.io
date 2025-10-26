@@ -6,4 +6,4 @@ permalink: /current/
 ---
 
 **극 난이도 토벌전**
- - [극 7.3 토벌전](/7.0_dawntrail/extreme_trials/et_73.md)
+ - [극 7.3 토벌전](/7.0_dawntrail/extreme_trials/et_73)
